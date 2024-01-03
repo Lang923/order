@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">order</string>
+    <string name="minus">-</string>
+    <string name="zero">0</string>
+    <string name="plus">+</string>
+    <string name="friedrice_desc"><b>Fried rice</b> is a dish of cooked
+        rice that has been stir-fried in a wok or a frying pan and is usually
+        mixed with other ingredients such as eggs, vegetables, seafood, or
+        meat.\nAs a homemade dish, fried rice is typically made with
+        ingredients left over from other dishes, leading to countless
+        variations. Fried rice first developed during the Sui Dynasty in China
+        and as such all fried rice dishes can trace their origins to Chinese
+        fried rice.\nFor more information, visit
+        https://en.wikipedia.org/wiki/Fried_rice
+    </string>
+    <string name="fried_rice_name">Fried Rice</string>
+</resources>
